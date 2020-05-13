@@ -1,5 +1,0 @@
----
-##This is a markdown file
-output: md_document:
-  variant: markdown_github
----
